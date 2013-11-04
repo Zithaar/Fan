@@ -1,29 +1,29 @@
 Sac - full 
-	1. Spring: state- not used 
+	1. Spring: state- used 
 	2. Jellyfish 
 	   state:
-		 - not used
+		 - used
 	   properties:
  		 - size - 0.4
 		 - material - nylon
 	3. Bridle 
 	   state:
-		 - not used
+		 - used
 	   properties:
 		 - material - caprone
 	4. Slings
 	   state:
-		 - not used
+		 - used
 	   ñproperties:
  		 - length - 4ì
 		 - material - nylin 
 		 - amount - 28
 	5. Slider
 	   state:
-		 - not used
+		 - used
 	6. Dome 
 	   state:
-		 - not used
+		 - used
 	   properties:
 		 - shape  - domed
 		 - material - nylon
