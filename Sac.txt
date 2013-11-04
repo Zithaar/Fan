@@ -14,6 +14,11 @@ Sac - full
 	4. Slings
 	   state:
 		 - not used
+	   properties:
+		 - material - caprone
+	4. Slings
+	   property:
+		 - used
 	   ñproperties:
  		 - length - 4ì
 		 - material - nylin 
@@ -24,6 +29,11 @@ Sac - full
 	6. Dome 
 	   state:
 		 - not used
+	   property:
+		 - used
+	6. Dome 
+	   state:
+		 - used
 	   properties:
 		 - shape  - rectangular
 		 - material - silk
