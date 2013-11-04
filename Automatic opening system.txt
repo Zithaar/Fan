@@ -1,1 +1,2 @@
- - Автоматическое устройство раскрытия парашюта (АУРП)
+ - Automatic parachute opening system
+		state  - not activated
