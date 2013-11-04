@@ -5,25 +5,25 @@ Sac - full
 		 - not used
 	   properties:
  		 - size - 0.4
-		 - material - нейлон
-	3. Стреньга (стреньга активатор камеры)
-	   состояние:
-		 - сложенная
-	   свойства:
-		 - материал - капрон
-	4. Стропы
-	   состояния:
-		 - сложенные
-	   свойства:
- 		 - длина - 4м
-		 - материал - нейлон 
-		 - количество - 28
-	5. Слайдер
-	   состояния:
-		 - сложеный
-	6. Камера (камера активатор слайдера и строп)
-	   состояния:
-		 - сложенная
-	   свойства:
-		 - форма  - куполообразная
-		 - материал - нейлон
+		 - material - nylon
+	3. Bridle 
+	   state:
+		 - not used
+	   properties:
+		 - material - caprone
+	4. Slings
+	   state:
+		 - not used
+	   сproperties:
+ 		 - length - 4м
+		 - material - nylin 
+		 - amount - 28
+	5. Slider
+	   state:
+		 - not used
+	6. Dome 
+	   state:
+		 - not used
+	   properties:
+		 - shape  - domed
+		 - material - nylon
