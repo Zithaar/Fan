@@ -4,7 +4,7 @@ Sac - full
 	   state:
 		 - used
 	   properties:
- 		 - size - 0.4
+ 		 - size - 0.8
 		 - material - nylon
 	3. Bridle 
 	   state:
@@ -17,7 +17,7 @@ Sac - full
 	   ñproperties:
  		 - length - 4ì
 		 - material - nylin 
-		 - amount - 28
+		 - amount - 4
 	5. Slider
 	   state:
 		 - used
@@ -25,5 +25,5 @@ Sac - full
 	   state:
 		 - used
 	   properties:
-		 - shape  - domed
-		 - material - nylon
+		 - shape  - rectangular
+		 - material - silk
